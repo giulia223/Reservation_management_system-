@@ -10,6 +10,15 @@ The system provides a structured way to:
 - Associate clients with their selected travel packages
 - Collect feedback through client review tracking
 
+## Model Utility
+- Agency and Agent Management: Enables the agency to manage its agents, who are responsible for selling travel packages.
+- Client and Booking Management: Allows the agency to track clients who make reservations and associate those bookings with specific agents.
+- Travel Package Management: Facilitates the agency in offering travel packages that include transport and accommodation.
+- Reviews and Feedback: Enables clients to submit reviews for services used (flights, accommodation, etc.), which the agency can analyze for quality and improvement.
+- Payments and Transfers: Supports the handling of payments for confirmed bookings and tracks transfers between different locations.
+
+
+
 ##  Entity-Relationship Diagram (ERD)
 ![image](https://github.com/user-attachments/assets/a1994045-b8d5-4b1f-9f56-a692c7717010)
 
